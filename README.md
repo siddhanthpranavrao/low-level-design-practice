@@ -64,7 +64,7 @@ PRs are welcome! Feel free to suggest improvements or add new problems.
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or drop an issue if you'd like to collaborate or learn together.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/siddhanthpranavrao) or drop an issue if you'd like to collaborate or learn together.
 
 ---
 
